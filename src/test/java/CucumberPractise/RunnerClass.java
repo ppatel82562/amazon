@@ -6,7 +6,7 @@ import cucumber.api.junit.Cucumber;
 import org.junit.runner.RunWith;
 
 @RunWith(Cucumber.class)
-@CucumberOptions(features = "." , format = {} , tags = "@login")
+@CucumberOptions(features = "." , format = {} , tags = "@babystore")
 public class RunnerClass {
 
 }
